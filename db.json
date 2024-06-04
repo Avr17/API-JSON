@@ -1,0 +1,35 @@
+{
+  "series": [
+    {
+      "id": "1",
+      "nomeSerie": "The officce",
+      "temporadas": "9",
+      "anoLancamento": "2005",
+      "estudio": "NBC"
+    },
+    {
+      "id": "2",
+      "nomeSerie": "Friends",
+      "temporadas": "10",
+      "anoLancamento": "1994",
+      "estudio": "NBC"
+    },
+    {
+      "id": "3",
+      "nomeSerie": "How I met your mother",
+      "temporadas": "9",
+      "anoLancamento": "2005",
+      "estudio": "CBS"
+    },
+    {
+      "id": "4",
+      "nomeSerie": "Emily em Paris",
+      "temporadas": "5",
+      "anoLancamento": "2020",
+      "estudio": "Netflix"
+    },
+    {
+      "id": "e5b1"
+    }
+  ]
+}
